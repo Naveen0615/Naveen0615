@@ -2,7 +2,7 @@ import AboutImg  from '../components/assets/about.jpg';
 
 export default function About () {
     const config ={
-        line1:' Hi,i am naveen. I am a full stack devoloper',
+        line1:' Hi,i am Thiagrajan. I am a full stack devoloper',
        line2:'i am profficient in java, html, webdevolopment, css, javascript'
       }
     return <section className='flex flex-col md:flex-row bg-primary px-5 py-5 ' id='about' >

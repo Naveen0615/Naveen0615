@@ -1,9 +1,7 @@
 import RESUMEIMG from '../components/assets/resume.png'
 
 export default function Resume() {
-        const config ={
-            link:'https://publuu.com/flip-book/714553/1593044'
-        }
+        const config ={link:'https://publuu.com/flip-book/726340/1611881'}
    
     return <section id='resume' className='flex flex-col md:flex-row bg-secondary px-5 py-5'>
           
